@@ -60,7 +60,7 @@ idha (<condition>) {
 
 
 ## While Loop
-
+```
 talama (<condition>) {
     ...
 }
