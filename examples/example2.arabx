@@ -1,0 +1,13 @@
+dalah add(a: sahih, b: sahih): sahih {
+    irjaa a + b;
+}
+
+mutghyr x: sahih = 10;
+mutghyr y: sahih = 20;
+mutghyr result: sahih = add(x, y);
+
+idha (result > 25) {
+    utbaa("Result is big");
+} wala {
+    utbaa("Result is small");
+}

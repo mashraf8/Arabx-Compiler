@@ -1,0 +1,10 @@
+mutghyr counter: sahih = 0;
+mutghyr limit: sahih = 5;
+
+talama (counter < limit) {
+    utbaa(counter);
+    counter = counter + 1;
+}
+
+mutghyr result: sahih = 3 + 5 * 2;
+utbaa(result);

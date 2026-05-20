@@ -1,0 +1,4 @@
+mutghyr x: sahih = 10;
+mutghyr y: sahih = 20;
+mutghyr sum: sahih = x + y;
+utbaa(sum);
